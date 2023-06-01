@@ -1,4 +1,4 @@
-# Projeto BD - Entrega 3
+# Projeto BD
 
 Trabalho realizado por:
 
